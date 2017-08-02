@@ -11,6 +11,7 @@ int a_to_i(char s[])
     return n;
 }
 
+
 main()
 { 
     char s[] = "12398";
